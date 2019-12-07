@@ -2,7 +2,7 @@ public class Prime {
 
     public static void main(String Args[]){
 
-        System.out.println(" The largest Prime Factor of a given number is" + getLargestPrime(43));
+        System.out.println(" The largest Prime Factor of a given number is " + getLargestPrime(21));
     }
 
     public static int getLargestPrime(int number) {
