@@ -7,5 +7,7 @@ public class scan {
         System.out.println("Enter your Name:");
         String name = scanner.nextLine();
         System.out.println(" your name is " + name);
+
+        scanner.close();
     }
 }
